@@ -1,0 +1,7 @@
+type: custom:meteoblue-seeing-card
+name: Meteoblue Seeing
+hours: 72
+graph: seeing
+grid_options:
+  columns: full
+  rows: auto
